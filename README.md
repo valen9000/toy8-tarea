@@ -28,8 +28,8 @@ Tienen un emulador de la computadora y el circuito para el Logisim en el [blog](
 0x8:  10100000    #
 0x9:  11100001    #
 0xA:  00000000    #
-0xB:  00000003    #
-0xC:  00000006    #
+0xB:  00000011    #
+0xC:  00000110    #
 0xD:  11111111    #
 0xE:  00000000    #
 ```
